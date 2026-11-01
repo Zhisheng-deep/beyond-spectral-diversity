@@ -1,0 +1,5 @@
+numpy==1.26.4
+scipy==1.13.1
+torch==2.5.1
+catboost==1.2.8
+rasterio==1.4.3
